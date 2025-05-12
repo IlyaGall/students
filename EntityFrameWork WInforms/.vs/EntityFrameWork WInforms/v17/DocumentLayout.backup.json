@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAAD79-4D8B-4F82-8D3B-82F3950A86A1}|EntityFrameWork WInforms\\EntityFrameWork WInforms.csproj|c:\\github\\c_sharp__developer_professional\\entityframework winforms\\entityframework winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAAD79-4D8B-4F82-8D3B-82F3950A86A1}|EntityFrameWork WInforms\\EntityFrameWork WInforms.csproj|solutionrelative:entityframework winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAAD79-4D8B-4F82-8D3B-82F3950A86A1}|EntityFrameWork WInforms\\EntityFrameWork WInforms.csproj|c:\\github\\c_sharp__developer_professional\\entityframework winforms\\entityframework winforms\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1FAAD79-4D8B-4F82-8D3B-82F3950A86A1}|EntityFrameWork WInforms\\EntityFrameWork WInforms.csproj|solutionrelative:entityframework winforms\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1FAAD79-4D8B-4F82-8D3B-82F3950A86A1}|EntityFrameWork WInforms\\EntityFrameWork WInforms.csproj|c:\\github\\c_sharp__developer_professional\\entityframework winforms\\entityframework winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1FAAD79-4D8B-4F82-8D3B-82F3950A86A1}|EntityFrameWork WInforms\\EntityFrameWork WInforms.csproj|solutionrelative:entityframework winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\EntityFrameWork WInforms\\Context.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork WInforms\\Context.cs",
+              "ToolTip": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\EntityFrameWork WInforms\\Context.cs",
+              "RelativeToolTip": "EntityFrameWork WInforms\\Context.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:23:00.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\EntityFrameWork WInforms\\Form1.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork WInforms\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\EntityFrameWork WInforms\\Form1.cs",
+              "RelativeToolTip": "EntityFrameWork WInforms\\Form1.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA7wA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:16:34.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\EntityFrameWork WInforms\\Form1.cs",
+              "RelativeDocumentMoniker": "EntityFrameWork WInforms\\Form1.cs",
+              "ToolTip": "C:\\GitHub\\c_Sharp__Developer_Professional\\EntityFrameWork WInforms\\EntityFrameWork WInforms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "EntityFrameWork WInforms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T06:15:20.66Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

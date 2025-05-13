@@ -3,16 +3,16 @@ version: '3.8'
 services:
   sqlserver:
     image: mcr.microsoft.com/mssql/server:2022-latest
-    container_name: sql_server
     environment:
-      - ACCEPT_EULA=Y
-      - MSSQL_SA_PASSWORD=YourStrong@Passw0rd
-      - MSSQL_PID=Developer
+      SA_PASSWORD: "YourStrong@Passw0rd"
+      ACCEPT_EULA: "Y"
+      MSSQL_PID: "Developer"
     ports:
       - "1433:1433"
-    volumes:
-      - sql_data:/var/opt/mssql
-    restart: unless-stopped
 
-volumes:
-  sql_data:
+  adminer:
+    image: adminer
+    ports:
+      - "8080:8080"
+    depends_on:
+      - sqlserver

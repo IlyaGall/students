@@ -49,3 +49,14 @@
 
 
 
+## подключение к бд
+
+перейти по адресу http://localhost:8080
+
+* System: Microsoft SQL Server 
+* Server: sqlserver 
+*  Username: sa 
+* Password: YourStrong@Passw0rd 
+* Database: оставь пустым для подключения к серверу
+
+![img](https://github.com/IlyaGall/students/blob/main/img/5.JPG)
